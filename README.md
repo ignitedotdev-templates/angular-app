@@ -1,3 +1,17 @@
+
+# Deploy Config
+```bash
+# root directory
+leave empty
+
+# build command
+npm install && npm run build
+
+# publish directory
+dist/<name-of-repository>/browser
+```
+
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
